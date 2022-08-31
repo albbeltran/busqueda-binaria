@@ -1,0 +1,74 @@
+{
+    "Empleados": [
+        {
+            "ID": 1,
+            "Nombre": "Gilligan Castro",
+            "Sexo": "Masculino",
+            "Puesto": "Desarrollador",
+            "Correo": "GiliCas@intre.com"
+        },
+        {
+            "ID": 2,
+            "Nombre": "Debbie Hanson",
+            "Sexo": "Femenino",
+            "Puesto": "Diseñador",
+            "Correo": "DebHson@intre.com"
+        },
+        {
+            "ID": 3,
+            "Nombre": "Manuel Cox",
+            "Sexo": "Masculino",
+            "Puesto": "Desarrollador",
+            "Correo": "ManuelYCox@intre.com"
+        },
+        {
+            "ID": 4,
+            "Nombre": "Paul Slagle",
+            "Sexo": "Masculino",
+            "Puesto": "Entrevistador",
+            "Correo": "PaulJSlagle@intre.com"
+        },
+        {
+            "ID": 5,
+            "Nombre": "Karina Palomo Baeza",
+            "Sexo": "Femenino",
+            "Puesto": "Recursos Humanos",
+            "Correo": "CarinaPalomoBaeza@intre.com"
+        },
+        {
+            "ID": 6,
+            "Nombre": "Laercio Márquez Jimínez",
+            "Sexo": "Masculino",
+            "Puesto": "Director creativo",
+            "Correo": "LaercioMarquezJiminez@intre.com"
+        },
+        {
+            "ID": 7,
+            "Nombre": "Charles Stinson",
+            "Sexo": "Masculino",
+            "Puesto": "Asistente",
+            "Correo": "CharlesMStinson@intre.com"
+        },
+        {
+            "ID": 8,
+            "Nombre": "Anita Patino",
+            "Sexo": "Femenino",
+            "Puesto": "Administrativo",
+            "Correo": "AnitaJPatino@intre.com"
+        },
+        {
+            "ID": 9,
+            "Nombre": "Marion Bell",
+            "Sexo": "Femenino",
+            "Puesto": "Mantenimiento",
+            "Correo": "MarionJBell@intre.com"
+        },
+        {
+            "ID": 10,
+            "Nombre": "Gustavo Martin",
+            "Sexo": "Masculino",
+            "Puesto": "Marketing",
+            "Correo": "GustavoNMartin@intre.com"
+        }
+    ]
+}
